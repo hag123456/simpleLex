@@ -1,0 +1,5 @@
+sigle = +|\-|\*|/|=|\(|\)|{|}|:|,|;|<|>|!
+dwrod = >=|<=|==|!=
+ID = [a-zA-Z][a-zA-Z0-9]*
+NUM =  [0-9]*
+RES = if|else|for|while|do|int|write|read
